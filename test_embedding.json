@@ -1,0 +1,50 @@
+[
+  {
+    "input": "Book a ride for tomorrow at 8 AM",
+    "output": "🚗 Sure! Booking a ride for tomorrow at 8 AM. Let me know if you'd like to modify it."
+  },
+  {
+    "input": "I want to schedule a pickup at 7 AM",
+    "output": "✅ Got it. Please confirm: Pickup scheduled at 7 AM. Shall I proceed?"
+  },
+  {
+    "input": "Can I get a cab at 6 in the evening?",
+    "output": "🕕 Scheduling a cab for 6 PM. Is this for today or another day?"
+  },
+  {
+    "input": "Cancel my ride for today",
+    "output": "❌ Your ride for today has been cancelled. Need help booking a new one?"
+  },
+  {
+    "input": "I don’t need my cab anymore",
+    "output": "✅ Ride cancellation confirmed. Let me know if you need to rebook."
+  },
+  {
+    "input": "When is my cab coming?",
+    "output": "🕒 Your cab is scheduled to arrive at 8:00 AM."
+  },
+  {
+    "input": "What time is my ride today?",
+    "output": "📅 Your ride today is at 7:30 AM. Would you like to reschedule?"
+  },
+  {
+    "input": "Reschedule my ride to 9 AM",
+    "output": "🔄 Rescheduling your ride to 9 AM. Confirm?"
+  },
+  {
+    "input": "Change my cab timing",
+    "output": "✏️ Sure! What time should I reschedule your ride to?"
+  },
+  {
+    "input": "I need help",
+    "output": "🆘 I can help you book, cancel, or modify your ride. What would you like to do?"
+  },
+  {
+    "input": "Do it",
+    "output": "⚠️ I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+  },
+  {
+    "input": "Jfkdslajfl",
+    "output": "🤔 Sorry, I didn’t understand that. Could you rephrase?"
+  }
+]

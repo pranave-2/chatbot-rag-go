@@ -1,0 +1,138 @@
+Processing Log - 2025-08-06 11:02:59
+Total pairs processed: 32
+Dimensions: 384, 512, 1024
+
+Pair 1:
+Input: Book transport for tomorrow at 8 AM
+Output: Got it! You're scheduling a pickup for tomorrow at 8 AM. Can you confirm your drop location is your office?
+
+Pair 2:
+Input: I want pickup from home at 7:30 AM on Monday
+Output: Perfect! I'm booking your pickup for Monday at 7:30 AM from your home address. Your roster is confirmed! You will receive driver details 30 minutes before the trip.
+
+Pair 3:
+Input: Schedule my pickup for 6 PM today
+Output: I've scheduled your pickup for today at 6 PM. Your booking is confirmed and you'll receive driver details shortly.
+
+Pair 4:
+Input: Add me to the transport list for tomorrow's night shift
+Output: I've added you to the transport roster for tomorrow's night shift. You'll receive confirmation with driver details 30 minutes before your trip.
+
+Pair 5:
+Input: Show me my roster for this week
+Output: Here's your upcoming roster:
+• Tomorrow - Pickup at 7:30 AM, Drop at 6 PM
+• Wednesday - Pickup at 8 AM
+• Friday - No Roster
+
+Pair 6:
+Input: Do I have a trip scheduled for tomorrow?
+Output: You have a pickup scheduled tomorrow at 8 AM from your home address.
+
+Pair 7:
+Input: What time is my pickup today?
+Output: You have a pickup scheduled today at 6 PM from your home address.
+
+Pair 8:
+Input: Show my upcoming transport schedule
+Output: Here are your upcoming trips:
+• Today - Drop at 6 PM
+• Tomorrow - Pickup at 8 AM
+• Thursday - Pickup at 7:30 AM, Drop at 6:30 PM
+
+Pair 9:
+Input: Change my pickup time to 9 AM tomorrow
+Output: I found your roster for tomorrow at 8 AM. I've updated your pickup time to 9 AM. You'll receive updated trip details shortly.
+
+Pair 10:
+Input: Reschedule my drop to 7 PM instead of 6
+Output: Your drop-off time has been updated to 7 PM. Updated trip details will be shared with you.
+
+Pair 11:
+Input: Edit the time for Monday roster
+Output: You have a roster for Monday at 6 PM. What time would you like to change it to?
+
+Pair 12:
+Input: Cancel my transport for tomorrow
+Output: I found a roster for tomorrow at 8 AM. Your transport for tomorrow has been cancelled successfully.
+
+Pair 13:
+Input: I won't need pickup on Friday
+Output: Your pickup for Friday has been cancelled.
+
+Pair 14:
+Input: I'm working from home tomorrow, cancel the ride
+Output: Done! Your ride for tomorrow has been successfully cancelled.
+
+Pair 15:
+Input: How do I book a trip?
+Output: I can help you book a transport! Just tell me the date and time. For example: 'Book a pickup for tomorrow at 9 AM' and I'll handle the rest.
+
+Pair 16:
+Input: Can I cancel a roster?
+Output: Yes, you can cancel a roster anytime! Just tell me which trip you want to cancel, like 'Cancel my ride for tomorrow' and I'll take care of it.
+
+Pair 17:
+Input: What is a roster?
+Output: A roster is your scheduled ride for a specific shift or date. It includes pickup and drop-off times and locations.
+
+Pair 18:
+Input: What are the available login shifts for tomorrow?
+Output: Your login shifts for tomorrow are every 30 minutes starting from 7 AM.
+
+Pair 19:
+Input: Show me logout shifts for today
+Output: Logout shifts for today are every 30 minutes starting from 6 PM.
+
+Pair 20:
+Input: What shifts are available after 8 AM tomorrow?
+Output: Login shifts are available every 30 minutes starting from 8:10 AM tomorrow.
+
+Pair 21:
+Input: Book my rides for the entire week
+Output: I can help you book rides for multiple days. What are the start and end dates for your weekly booking?
+
+Pair 22:
+Input: I need transport from Monday to Friday
+Output: I'll book your transport from Monday to Friday. What time would you prefer for your daily rides?
+
+Pair 23:
+Input: Book
+Output: Can you please specify the date and time for your trip?
+
+Pair 24:
+Input: I need it
+Output: Did you mean to book a ride? Please provide the date and time, like 'Pickup at 7 AM tomorrow'.
+
+Pair 25:
+Input: Next week
+Output: I'd be happy to help with next week's transport. Could you specify the exact dates and times you need?
+
+Pair 26:
+Input: Where is my cab?
+Output: Your cab (KA01AB1234) is currently 5 minutes away from your pickup location. Driver Ramesh will contact you when he arrives.
+
+Pair 27:
+Input: Is my driver here?
+Output: Your cab (KA01AB1234) has arrived at your location. Driver Ramesh is waiting at the pickup point.
+
+Pair 28:
+Input: book my ride for tomorrow
+Output: What time would you like your ride for tomorrow?
+
+Pair 29:
+Input: yes
+Output: What time works for you?
+
+Pair 30:
+Input: cancel my ride for tomorrow
+Output: Your ride for tomorrow has been cancelled successfully.
+
+Pair 31:
+Input: did I book a ride for Monday?
+Output: Let me check your bookings for Monday...
+
+Pair 32:
+Input: book multiple days
+Output: What are the start and end dates for your multi-day booking?
+

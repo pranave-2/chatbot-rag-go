@@ -1,0 +1,1278 @@
+[
+  {
+    "input": "\u201cBook transport for tomorrow at 8 AM\u201d",
+    "output": "\ud83d\udfe2 \"Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?\""
+  },
+  {
+    "input": "\u201cBook transport for tomorrow at 8 AM\u201d",
+    "output": "\ud83d\udd01 \"Your default address is [address]. Do you want to use this?\""
+  },
+  {
+    "input": "\u201cBook transport for tomorrow at 8 AM\u201d",
+    "output": "\u2705 \"Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip.\""
+  },
+  {
+    "input": "\u201cBook transport for tomorrow at 8 AM\u201d",
+    "output": "\u26a0\ufe0f \"You already have a roster for this time. Do you want to replace it?\""
+  },
+  {
+    "input": "\u201cI want pickup from home at 7:30 AM on Monday\u201d",
+    "output": "\ud83d\udfe2 \"Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?\""
+  },
+  {
+    "input": "\u201cI want pickup from home at 7:30 AM on Monday\u201d",
+    "output": "\ud83d\udd01 \"Your default address is [address]. Do you want to use this?\""
+  },
+  {
+    "input": "\u201cI want pickup from home at 7:30 AM on Monday\u201d",
+    "output": "\u2705 \"Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip.\""
+  },
+  {
+    "input": "\u201cI want pickup from home at 7:30 AM on Monday\u201d",
+    "output": "\u26a0\ufe0f \"You already have a roster for this time. Do you want to replace it?\""
+  },
+  {
+    "input": "\u201cCreate a roster for June 12th evening shift\u201d",
+    "output": "\ud83d\udfe2 \"Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?\""
+  },
+  {
+    "input": "\u201cCreate a roster for June 12th evening shift\u201d",
+    "output": "\ud83d\udd01 \"Your default address is [address]. Do you want to use this?\""
+  },
+  {
+    "input": "\u201cCreate a roster for June 12th evening shift\u201d",
+    "output": "\u2705 \"Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip.\""
+  },
+  {
+    "input": "\u201cCreate a roster for June 12th evening shift\u201d",
+    "output": "\u26a0\ufe0f \"You already have a roster for this time. Do you want to replace it?\""
+  },
+  {
+    "input": "\u201cSchedule my pickup for 6 PM today\u201d",
+    "output": "\ud83d\udfe2 \"Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?\""
+  },
+  {
+    "input": "\u201cSchedule my pickup for 6 PM today\u201d",
+    "output": "\ud83d\udd01 \"Your default address is [address]. Do you want to use this?\""
+  },
+  {
+    "input": "\u201cSchedule my pickup for 6 PM today\u201d",
+    "output": "\u2705 \"Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip.\""
+  },
+  {
+    "input": "\u201cSchedule my pickup for 6 PM today\u201d",
+    "output": "\u26a0\ufe0f \"You already have a roster for this time. Do you want to replace it?\""
+  },
+  {
+    "input": "\u201cAdd me to the transport list for tomorrow\u2019s night shift\u201d",
+    "output": "\ud83d\udfe2 \"Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?\""
+  },
+  {
+    "input": "\u201cAdd me to the transport list for tomorrow\u2019s night shift\u201d",
+    "output": "\ud83d\udd01 \"Your default address is [address]. Do you want to use this?\""
+  },
+  {
+    "input": "\u201cAdd me to the transport list for tomorrow\u2019s night shift\u201d",
+    "output": "\u2705 \"Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip.\""
+  },
+  {
+    "input": "\u201cAdd me to the transport list for tomorrow\u2019s night shift\u201d",
+    "output": "\u26a0\ufe0f \"You already have a roster for this time. Do you want to replace it?\""
+  },
+  {
+    "input": "\u201cChange my pickup time to 9 AM tomorrow\u201d",
+    "output": "\ud83d\udd0d \"You have a roster for Monday at 6 PM. What time would you like to change it to?\""
+  },
+  {
+    "input": "\u201cChange my pickup time to 9 AM tomorrow\u201d",
+    "output": "\ud83d\udd01 \"Should I change both pickup and drop time or just one?\""
+  },
+  {
+    "input": "\u201cChange my pickup time to 9 AM tomorrow\u201d",
+    "output": "\u2705 \"Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later.\""
+  },
+  {
+    "input": "\u201cChange my pickup time to 9 AM tomorrow\u201d",
+    "output": "\u26a0\ufe0f \"Modifying this will cancel your existing trip. Do you want to proceed?\""
+  },
+  {
+    "input": "\u201cReschedule my drop to 7 PM instead of 6\u201d",
+    "output": "\ud83d\udd0d \"You have a roster for Monday at 6 PM. What time would you like to change it to?\""
+  },
+  {
+    "input": "\u201cReschedule my drop to 7 PM instead of 6\u201d",
+    "output": "\ud83d\udd01 \"Should I change both pickup and drop time or just one?\""
+  },
+  {
+    "input": "\u201cReschedule my drop to 7 PM instead of 6\u201d",
+    "output": "\u2705 \"Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later.\""
+  },
+  {
+    "input": "\u201cReschedule my drop to 7 PM instead of 6\u201d",
+    "output": "\u26a0\ufe0f \"Modifying this will cancel your existing trip. Do you want to proceed?\""
+  },
+  {
+    "input": "\u201cEdit the time for June 10 roster\u201d",
+    "output": "\ud83d\udd0d \"You have a roster for Monday at 6 PM. What time would you like to change it to?\""
+  },
+  {
+    "input": "\u201cEdit the time for June 10 roster\u201d",
+    "output": "\ud83d\udd01 \"Should I change both pickup and drop time or just one?\""
+  },
+  {
+    "input": "\u201cEdit the time for June 10 roster\u201d",
+    "output": "\u2705 \"Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later.\""
+  },
+  {
+    "input": "\u201cEdit the time for June 10 roster\u201d",
+    "output": "\u26a0\ufe0f \"Modifying this will cancel your existing trip. Do you want to proceed?\""
+  },
+  {
+    "input": "\u201cModify my roster for Monday\u201d",
+    "output": "\ud83d\udd0d \"You have a roster for Monday at 6 PM. What time would you like to change it to?\""
+  },
+  {
+    "input": "\u201cModify my roster for Monday\u201d",
+    "output": "\ud83d\udd01 \"Should I change both pickup and drop time or just one?\""
+  },
+  {
+    "input": "\u201cModify my roster for Monday\u201d",
+    "output": "\u2705 \"Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later.\""
+  },
+  {
+    "input": "\u201cModify my roster for Monday\u201d",
+    "output": "\u26a0\ufe0f \"Modifying this will cancel your existing trip. Do you want to proceed?\""
+  },
+  {
+    "input": "\u201cCancel my transport for tomorrow\u201d",
+    "output": "\u274c \"Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?\""
+  },
+  {
+    "input": "\u201cCancel my transport for tomorrow\u201d",
+    "output": "\u2705 \"Your transport for Friday has been cancelled.\""
+  },
+  {
+    "input": "\u201cCancel my transport for tomorrow\u201d",
+    "output": "\ud83d\udd01 \"You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?\""
+  },
+  {
+    "input": "\u201cCancel my transport for tomorrow\u201d",
+    "output": "\ud83d\udc4d \"Done! Your ride for tomorrow has been successfully cancelled.\""
+  },
+  {
+    "input": "\u201cI won\u2019t need pickup on Friday\u201d",
+    "output": "\u274c \"Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?\""
+  },
+  {
+    "input": "\u201cI won\u2019t need pickup on Friday\u201d",
+    "output": "\u2705 \"Your transport for Friday has been cancelled.\""
+  },
+  {
+    "input": "\u201cI won\u2019t need pickup on Friday\u201d",
+    "output": "\ud83d\udd01 \"You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?\""
+  },
+  {
+    "input": "\u201cI won\u2019t need pickup on Friday\u201d",
+    "output": "\ud83d\udc4d \"Done! Your ride for tomorrow has been successfully cancelled.\""
+  },
+  {
+    "input": "\u201cDelete my roster for June 14th\u201d",
+    "output": "\u274c \"Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?\""
+  },
+  {
+    "input": "\u201cDelete my roster for June 14th\u201d",
+    "output": "\u2705 \"Your transport for Friday has been cancelled.\""
+  },
+  {
+    "input": "\u201cDelete my roster for June 14th\u201d",
+    "output": "\ud83d\udd01 \"You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?\""
+  },
+  {
+    "input": "\u201cDelete my roster for June 14th\u201d",
+    "output": "\ud83d\udc4d \"Done! Your ride for tomorrow has been successfully cancelled.\""
+  },
+  {
+    "input": "\u201cI\u2019m working from home tomorrow, cancel the ride\u201d",
+    "output": "\u274c \"Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?\""
+  },
+  {
+    "input": "\u201cI\u2019m working from home tomorrow, cancel the ride\u201d",
+    "output": "\u2705 \"Your transport for Friday has been cancelled.\""
+  },
+  {
+    "input": "\u201cI\u2019m working from home tomorrow, cancel the ride\u201d",
+    "output": "\ud83d\udd01 \"You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?\""
+  },
+  {
+    "input": "\u201cI\u2019m working from home tomorrow, cancel the ride\u201d",
+    "output": "\ud83d\udc4d \"Done! Your ride for tomorrow has been successfully cancelled.\""
+  },
+  {
+    "input": "\u201cShow me my roster for this week\u201d",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "\u201cShow me my roster for this week\u201d",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "\u201cShow me my roster for this week\u201d",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "\u201cDo I have a trip scheduled for tomorrow?\u201d",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "\u201cDo I have a trip scheduled for tomorrow?\u201d",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "\u201cDo I have a trip scheduled for tomorrow?\u201d",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "\u201cWhat time is my pickup today?\u201d",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "\u201cWhat time is my pickup today?\u201d",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "\u201cWhat time is my pickup today?\u201d",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "\u201cShow my upcoming transport schedule\u201d",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "\u201cShow my upcoming transport schedule\u201d",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "\u201cShow my upcoming transport schedule\u201d",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "June 10 \u2013 Pickup at 7:30 AM, Drop at 6 PM",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "June 10 \u2013 Pickup at 7:30 AM, Drop at 6 PM",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "June 10 \u2013 Pickup at 7:30 AM, Drop at 6 PM",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "June 11 \u2013 Pickup at 8 AM",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "June 11 \u2013 Pickup at 8 AM",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "June 11 \u2013 Pickup at 8 AM",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "June 12 \u2013 No Roster",
+    "output": "\ud83d\udcc5 \"Here's your upcoming roster:\""
+  },
+  {
+    "input": "June 12 \u2013 No Roster",
+    "output": "\ud83d\udd0d \"You have a pickup scheduled today at 6 PM from [Home Address].\""
+  },
+  {
+    "input": "June 12 \u2013 No Roster",
+    "output": "\ud83c\udd97 \"You don\u2019t have any trips scheduled for tomorrow. Would you like to book one?\""
+  },
+  {
+    "input": "\u201cHow do I book a trip?\u201d",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "\u201cHow do I book a trip?\u201d",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "\u201cHow do I book a trip?\u201d",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "\u201cCan I cancel a roster?\u201d",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "\u201cCan I cancel a roster?\u201d",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "\u201cCan I cancel a roster?\u201d",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "\u201cWhat is a roster?\u201d",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "\u201cWhat is a roster?\u201d",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "\u201cWhat is a roster?\u201d",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "\u201cHelp with transport booking\u201d",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "\u201cHelp with transport booking\u201d",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "\u201cHelp with transport booking\u201d",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "Booking a transport",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "Booking a transport",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "Booking a transport",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "Modifying/cancelling a roster",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "Modifying/cancelling a roster",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "Modifying/cancelling a roster",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "Viewing your schedule",
+    "output": "\ud83c\udd98 \"I can help you with:\""
+  },
+  {
+    "input": "Viewing your schedule",
+    "output": "\ud83d\udca1 To book a roster, just tell me the date and time. Example: \u201cBook a pickup for tomorrow at 9 AM.\u201d"
+  },
+  {
+    "input": "Viewing your schedule",
+    "output": "\ud83d\udcd8 A \"roster\" is your scheduled ride for a specific shift or date."
+  },
+  {
+    "input": "\u201cBook\u201d",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\u201cBook\u201d",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\u201cBook\u201d",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\u201cI need it\u201d",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\u201cI need it\u201d",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\u201cI need it\u201d",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\u201cNext week\u201d",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\u201cNext week\u201d",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\u201cNext week\u201d",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\u201cDo it\u201d",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\u201cDo it\u201d",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\u201cDo it\u201d",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "AI Agent Responses:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "AI Agent Responses:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "AI Agent Responses:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "7. Optional Enhancements",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "7. Optional Enhancements",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "7. Optional Enhancements",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Context Awareness",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Context Awareness",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Context Awareness",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Auto-suggest roster creation if the employee\u2019s shift is detected but no roster exists.",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Auto-suggest roster creation if the employee\u2019s shift is detected but no roster exists.",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Auto-suggest roster creation if the employee\u2019s shift is detected but no roster exists.",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\u201cYou have a shift tomorrow at 9 AM. Would you like to book transport?\u201d",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\u201cYou have a shift tomorrow at 9 AM. Would you like to book transport?\u201d",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\u201cYou have a shift tomorrow at 9 AM. Would you like to book transport?\u201d",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Smart Suggestions",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Smart Suggestions",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Smart Suggestions",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Suggest default time/place based on previous behavior.",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Suggest default time/place based on previous behavior.",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Suggest default time/place based on previous behavior.",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Offer one-tap options: \"Rebook last trip\", \"Same time as yesterday\", \"Cancel today\u2019s ride\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Offer one-tap options: \"Rebook last trip\", \"Same time as yesterday\", \"Cancel today\u2019s ride\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Offer one-tap options: \"Rebook last trip\", \"Same time as yesterday\", \"Cancel today\u2019s ride\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Below are the examples of few more prompts and responses from an employee perspective",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Below are the examples of few more prompts and responses from an employee perspective",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Below are the examples of few more prompts and responses from an employee perspective",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Employee Transport Management System: Employee's Perspective",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Employee Transport Management System: Employee's Perspective",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Employee Transport Management System: Employee's Perspective",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "I. Viewing My Schedule",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "I. Viewing My Schedule",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "I. Viewing My Schedule",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "1. View My Current/Upcoming Schedule",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "1. View My Current/Upcoming Schedule",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "1. View My Current/Upcoming Schedule",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for today.\" or \"What is my pickup time tomorrow, June 11th?\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for today.\" or \"What is my pickup time tomorrow, June 11th?\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for today.\" or \"What is my pickup time tomorrow, June 11th?\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Today's Pickup:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Today's Pickup:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Today's Pickup:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Time: 6:00 PM",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Time: 6:00 PM",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Time: 6:00 PM",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Cab: KA01AB1234 (Toyota Innova)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Cab: KA01AB1234 (Toyota Innova)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Cab: KA01AB1234 (Toyota Innova)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Driver: Ramesh (9876543210)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Driver: Ramesh (9876543210)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Driver: Ramesh (9876543210)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Current Status: En route, 15 minutes away.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Current Status: En route, 15 minutes away.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Current Status: En route, 15 minutes away.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Tomorrow's Pickup (June 11th):",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Tomorrow's Pickup (June 11th):",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Tomorrow's Pickup (June 11th):",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Time: 8:30 AM",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Time: 8:30 AM",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Time: 8:30 AM",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Cab: KA05CD5678 (Maruti Ertiga)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Cab: KA05CD5678 (Maruti Ertiga)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Cab: KA05CD5678 (Maruti Ertiga)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Driver: Suresh (9988776655)\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Driver: Suresh (9988776655)\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Driver: Suresh (9988776655)\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"No transport scheduled for you today.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"No transport scheduled for you today.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"No transport scheduled for you today.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday').\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday').\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday').\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "2. View My Past Schedules",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "2. View My Past Schedules",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "2. View My Past Schedules",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule last week.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule last week.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Prompt: \"My schedule last week.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for last week, June 2nd to June 8th.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for last week, June 2nd to June 8th.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Prompt: \"Show me my transport schedule for last week, June 2nd to June 8th.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Your Schedules (June 2nd - June 8th):",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Your Schedules (June 2nd - June 8th):",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Your Schedules (June 2nd - June 8th):",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "... (list continues for all scheduled days)\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "... (list continues for all scheduled days)\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "... (list continues for all scheduled days)\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"No transport schedule found for you during that period.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"No transport schedule found for you during that period.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"No transport schedule found for you during that period.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "II. Requesting a Change",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "II. Requesting a Change",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "II. Requesting a Change",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Prompt: \"Change my drop-off time.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Prompt: \"Change my drop-off time.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Prompt: \"Change my drop-off time.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Prompt: \"I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Prompt: \"I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Prompt: \"I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Please specify the exact date and the new time you'd like to change to.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Please specify the exact date and the new time you'd like to change to.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Please specify the exact date and the new time you'd like to change to.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "2. Cancelling My Ride",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "2. Cancelling My Ride",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "2. Cancelling My Ride",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Prompt: \"Cancel my ride.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Prompt: \"Cancel my ride.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Prompt: \"Cancel my ride.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Prompt: \"Cancel my pickup for tomorrow, June 11th.\" or \"Cancel my drop-off for today, June 10th.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Prompt: \"Cancel my pickup for tomorrow, June 11th.\" or \"Cancel my drop-off for today, June 10th.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Prompt: \"Cancel my pickup for tomorrow, June 11th.\" or \"Cancel my drop-off for today, June 10th.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Upon Yes: \"Your pickup for tomorrow, June 11th, has been successfully cancelled.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Upon Yes: \"Your pickup for tomorrow, June 11th, has been successfully cancelled.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Upon Yes: \"Your pickup for tomorrow, June 11th, has been successfully cancelled.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"No active transport scheduled for you for the date specified.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"No active transport scheduled for you for the date specified.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"No active transport scheduled for you for the date specified.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "III. Real-time Updates & Reminders",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "III. Real-time Updates & Reminders",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "III. Real-time Updates & Reminders",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "1. Cab is Approaching (System-Initiated Notification)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "1. Cab is Approaching (System-Initiated Notification)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "1. Cab is Approaching (System-Initiated Notification)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Notification: \"Cab arriving soon!\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Notification: \"Cab arriving soon!\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Notification: \"Cab arriving soon!\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\" in app, or just be ready)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\" in app, or just be ready)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\" in app, or just be ready)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "2. Cab Has Arrived (System-Initiated Notification)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "2. Cab Has Arrived (System-Initiated Notification)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "2. Cab Has Arrived (System-Initiated Notification)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Notification: \"Cab has arrived!\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Notification: \"Cab has arrived!\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Notification: \"Cab has arrived!\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Notification: \"Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Proceed to cab, click \"Acknowledged\" in app)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Proceed to cab, click \"Acknowledged\" in app)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Proceed to cab, click \"Acknowledged\" in app)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "3. Cab Delay Notification (System-Initiated Notification)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "3. Cab Delay Notification (System-Initiated Notification)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "3. Cab Delay Notification (System-Initiated Notification)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Notification: \"Cab delayed.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Notification: \"Cab delayed.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Notification: \"Cab delayed.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Notification: \"Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Notification: \"Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Notification: \"Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\", \"View on Map\", \"Contact Support\" if available)",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\", \"View on Map\", \"Contact Support\" if available)",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Employee Action/Acknowledgement: (Click \"OK\", \"View on Map\", \"Contact Support\" if available)",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "4. Driver/Cab Details for My Current Ride",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "4. Driver/Cab Details for My Current Ride",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "4. Driver/Cab Details for My Current Ride",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Short Prompt: \"Who's my driver?\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Short Prompt: \"Who's my driver?\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Short Prompt: \"Who's my driver?\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "Full Prompt: \"What are the details of my current cab and driver?\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "Full Prompt: \"What are the details of my current cab and driver?\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "Full Prompt: \"What are the details of my current cab and driver?\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "System Response:",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "\"You currently don't have an active ride assignment.\"",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "\"You currently don't have an active ride assignment.\"",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "\"You currently don't have an active ride assignment.\"",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  },
+  {
+    "input": "This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.",
+    "output": "\u2753 \"Can you please specify the date and time for your trip?\""
+  },
+  {
+    "input": "This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.",
+    "output": "\ud83d\udd01 \"Did you mean to book a ride? Please provide the date/time, like \u2018Pickup at 7 AM tomorrow\u2019.\""
+  },
+  {
+    "input": "This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.",
+    "output": "\u26a0\ufe0f \"I'm not sure I understood. Do you want to book, cancel, or view your roster?\""
+  }
+]

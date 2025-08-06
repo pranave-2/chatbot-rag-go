@@ -1,0 +1,1280 @@
+Processing Log - 2025-08-06 16:30:10
+Total pairs processed: 319
+Dimensions: 384, 512, 1024
+
+Pair 1:
+Input: “Book transport for tomorrow at 8 AM”
+Output: 🟢 "Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?"
+
+Pair 2:
+Input: “Book transport for tomorrow at 8 AM”
+Output: 🔁 "Your default address is [address]. Do you want to use this?"
+
+Pair 3:
+Input: “Book transport for tomorrow at 8 AM”
+Output: ✅ "Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip."
+
+Pair 4:
+Input: “Book transport for tomorrow at 8 AM”
+Output: ⚠️ "You already have a roster for this time. Do you want to replace it?"
+
+Pair 5:
+Input: “I want pickup from home at 7:30 AM on Monday”
+Output: 🟢 "Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?"
+
+Pair 6:
+Input: “I want pickup from home at 7:30 AM on Monday”
+Output: 🔁 "Your default address is [address]. Do you want to use this?"
+
+Pair 7:
+Input: “I want pickup from home at 7:30 AM on Monday”
+Output: ✅ "Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip."
+
+Pair 8:
+Input: “I want pickup from home at 7:30 AM on Monday”
+Output: ⚠️ "You already have a roster for this time. Do you want to replace it?"
+
+Pair 9:
+Input: “Create a roster for June 12th evening shift”
+Output: 🟢 "Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?"
+
+Pair 10:
+Input: “Create a roster for June 12th evening shift”
+Output: 🔁 "Your default address is [address]. Do you want to use this?"
+
+Pair 11:
+Input: “Create a roster for June 12th evening shift”
+Output: ✅ "Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip."
+
+Pair 12:
+Input: “Create a roster for June 12th evening shift”
+Output: ⚠️ "You already have a roster for this time. Do you want to replace it?"
+
+Pair 13:
+Input: “Schedule my pickup for 6 PM today”
+Output: 🟢 "Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?"
+
+Pair 14:
+Input: “Schedule my pickup for 6 PM today”
+Output: 🔁 "Your default address is [address]. Do you want to use this?"
+
+Pair 15:
+Input: “Schedule my pickup for 6 PM today”
+Output: ✅ "Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip."
+
+Pair 16:
+Input: “Schedule my pickup for 6 PM today”
+Output: ⚠️ "You already have a roster for this time. Do you want to replace it?"
+
+Pair 17:
+Input: “Add me to the transport list for tomorrow’s night shift”
+Output: 🟢 "Got it! You're scheduling a pickup for [June 12th, 8 AM]. Can you confirm your drop location is [Company Location]?"
+
+Pair 18:
+Input: “Add me to the transport list for tomorrow’s night shift”
+Output: 🔁 "Your default address is [address]. Do you want to use this?"
+
+Pair 19:
+Input: “Add me to the transport list for tomorrow’s night shift”
+Output: ✅ "Your roster for June 12th at 8 AM is confirmed! You will receive the driver details 30 minutes before the trip."
+
+Pair 20:
+Input: “Add me to the transport list for tomorrow’s night shift”
+Output: ⚠️ "You already have a roster for this time. Do you want to replace it?"
+
+Pair 21:
+Input: “Change my pickup time to 9 AM tomorrow”
+Output: 🔍 "You have a roster for Monday at 6 PM. What time would you like to change it to?"
+
+Pair 22:
+Input: “Change my pickup time to 9 AM tomorrow”
+Output: 🔁 "Should I change both pickup and drop time or just one?"
+
+Pair 23:
+Input: “Change my pickup time to 9 AM tomorrow”
+Output: ✅ "Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later."
+
+Pair 24:
+Input: “Change my pickup time to 9 AM tomorrow”
+Output: ⚠️ "Modifying this will cancel your existing trip. Do you want to proceed?"
+
+Pair 25:
+Input: “Reschedule my drop to 7 PM instead of 6”
+Output: 🔍 "You have a roster for Monday at 6 PM. What time would you like to change it to?"
+
+Pair 26:
+Input: “Reschedule my drop to 7 PM instead of 6”
+Output: 🔁 "Should I change both pickup and drop time or just one?"
+
+Pair 27:
+Input: “Reschedule my drop to 7 PM instead of 6”
+Output: ✅ "Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later."
+
+Pair 28:
+Input: “Reschedule my drop to 7 PM instead of 6”
+Output: ⚠️ "Modifying this will cancel your existing trip. Do you want to proceed?"
+
+Pair 29:
+Input: “Edit the time for June 10 roster”
+Output: 🔍 "You have a roster for Monday at 6 PM. What time would you like to change it to?"
+
+Pair 30:
+Input: “Edit the time for June 10 roster”
+Output: 🔁 "Should I change both pickup and drop time or just one?"
+
+Pair 31:
+Input: “Edit the time for June 10 roster”
+Output: ✅ "Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later."
+
+Pair 32:
+Input: “Edit the time for June 10 roster”
+Output: ⚠️ "Modifying this will cancel your existing trip. Do you want to proceed?"
+
+Pair 33:
+Input: “Modify my roster for Monday”
+Output: 🔍 "You have a roster for Monday at 6 PM. What time would you like to change it to?"
+
+Pair 34:
+Input: “Modify my roster for Monday”
+Output: 🔁 "Should I change both pickup and drop time or just one?"
+
+Pair 35:
+Input: “Modify my roster for Monday”
+Output: ✅ "Your pickup time for Monday is updated to 9 AM. Updated trip details will be shared later."
+
+Pair 36:
+Input: “Modify my roster for Monday”
+Output: ⚠️ "Modifying this will cancel your existing trip. Do you want to proceed?"
+
+Pair 37:
+Input: “Cancel my transport for tomorrow”
+Output: ❌ "Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?"
+
+Pair 38:
+Input: “Cancel my transport for tomorrow”
+Output: ✅ "Your transport for Friday has been cancelled."
+
+Pair 39:
+Input: “Cancel my transport for tomorrow”
+Output: 🔁 "You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?"
+
+Pair 40:
+Input: “Cancel my transport for tomorrow”
+Output: 👍 "Done! Your ride for tomorrow has been successfully cancelled."
+
+Pair 41:
+Input: “I won’t need pickup on Friday”
+Output: ❌ "Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?"
+
+Pair 42:
+Input: “I won’t need pickup on Friday”
+Output: ✅ "Your transport for Friday has been cancelled."
+
+Pair 43:
+Input: “I won’t need pickup on Friday”
+Output: 🔁 "You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?"
+
+Pair 44:
+Input: “I won’t need pickup on Friday”
+Output: 👍 "Done! Your ride for tomorrow has been successfully cancelled."
+
+Pair 45:
+Input: “Delete my roster for June 14th”
+Output: ❌ "Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?"
+
+Pair 46:
+Input: “Delete my roster for June 14th”
+Output: ✅ "Your transport for Friday has been cancelled."
+
+Pair 47:
+Input: “Delete my roster for June 14th”
+Output: 🔁 "You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?"
+
+Pair 48:
+Input: “Delete my roster for June 14th”
+Output: 👍 "Done! Your ride for tomorrow has been successfully cancelled."
+
+Pair 49:
+Input: “I’m working from home tomorrow, cancel the ride”
+Output: ❌ "Sure, I found a roster for June 14th at 8 AM. Do you want to cancel it?"
+
+Pair 50:
+Input: “I’m working from home tomorrow, cancel the ride”
+Output: ✅ "Your transport for Friday has been cancelled."
+
+Pair 51:
+Input: “I’m working from home tomorrow, cancel the ride”
+Output: 🔁 "You have multiple rosters for that day. Would you like to cancel pickup, drop, or both?"
+
+Pair 52:
+Input: “I’m working from home tomorrow, cancel the ride”
+Output: 👍 "Done! Your ride for tomorrow has been successfully cancelled."
+
+Pair 53:
+Input: “Show me my roster for this week”
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 54:
+Input: “Show me my roster for this week”
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 55:
+Input: “Show me my roster for this week”
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 56:
+Input: “Do I have a trip scheduled for tomorrow?”
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 57:
+Input: “Do I have a trip scheduled for tomorrow?”
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 58:
+Input: “Do I have a trip scheduled for tomorrow?”
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 59:
+Input: “What time is my pickup today?”
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 60:
+Input: “What time is my pickup today?”
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 61:
+Input: “What time is my pickup today?”
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 62:
+Input: “Show my upcoming transport schedule”
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 63:
+Input: “Show my upcoming transport schedule”
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 64:
+Input: “Show my upcoming transport schedule”
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 65:
+Input: June 10 – Pickup at 7:30 AM, Drop at 6 PM
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 66:
+Input: June 10 – Pickup at 7:30 AM, Drop at 6 PM
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 67:
+Input: June 10 – Pickup at 7:30 AM, Drop at 6 PM
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 68:
+Input: June 11 – Pickup at 8 AM
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 69:
+Input: June 11 – Pickup at 8 AM
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 70:
+Input: June 11 – Pickup at 8 AM
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 71:
+Input: June 12 – No Roster
+Output: 📅 "Here's your upcoming roster:"
+
+Pair 72:
+Input: June 12 – No Roster
+Output: 🔍 "You have a pickup scheduled today at 6 PM from [Home Address]."
+
+Pair 73:
+Input: June 12 – No Roster
+Output: 🆗 "You don’t have any trips scheduled for tomorrow. Would you like to book one?"
+
+Pair 74:
+Input: “How do I book a trip?”
+Output: 🆘 "I can help you with:"
+
+Pair 75:
+Input: “How do I book a trip?”
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 76:
+Input: “How do I book a trip?”
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 77:
+Input: “Can I cancel a roster?”
+Output: 🆘 "I can help you with:"
+
+Pair 78:
+Input: “Can I cancel a roster?”
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 79:
+Input: “Can I cancel a roster?”
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 80:
+Input: “What is a roster?”
+Output: 🆘 "I can help you with:"
+
+Pair 81:
+Input: “What is a roster?”
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 82:
+Input: “What is a roster?”
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 83:
+Input: “Help with transport booking”
+Output: 🆘 "I can help you with:"
+
+Pair 84:
+Input: “Help with transport booking”
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 85:
+Input: “Help with transport booking”
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 86:
+Input: Booking a transport
+Output: 🆘 "I can help you with:"
+
+Pair 87:
+Input: Booking a transport
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 88:
+Input: Booking a transport
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 89:
+Input: Modifying/cancelling a roster
+Output: 🆘 "I can help you with:"
+
+Pair 90:
+Input: Modifying/cancelling a roster
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 91:
+Input: Modifying/cancelling a roster
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 92:
+Input: Viewing your schedule
+Output: 🆘 "I can help you with:"
+
+Pair 93:
+Input: Viewing your schedule
+Output: 💡 To book a roster, just tell me the date and time. Example: “Book a pickup for tomorrow at 9 AM.”
+
+Pair 94:
+Input: Viewing your schedule
+Output: 📘 A "roster" is your scheduled ride for a specific shift or date.
+
+Pair 95:
+Input: “Book”
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 96:
+Input: “Book”
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 97:
+Input: “Book”
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 98:
+Input: “I need it”
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 99:
+Input: “I need it”
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 100:
+Input: “I need it”
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 101:
+Input: “Next week”
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 102:
+Input: “Next week”
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 103:
+Input: “Next week”
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 104:
+Input: “Do it”
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 105:
+Input: “Do it”
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 106:
+Input: “Do it”
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 107:
+Input: AI Agent Responses:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 108:
+Input: AI Agent Responses:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 109:
+Input: AI Agent Responses:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 110:
+Input: 7. Optional Enhancements
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 111:
+Input: 7. Optional Enhancements
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 112:
+Input: 7. Optional Enhancements
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 113:
+Input: Context Awareness
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 114:
+Input: Context Awareness
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 115:
+Input: Context Awareness
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 116:
+Input: Auto-suggest roster creation if the employee’s shift is detected but no roster exists.
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 117:
+Input: Auto-suggest roster creation if the employee’s shift is detected but no roster exists.
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 118:
+Input: Auto-suggest roster creation if the employee’s shift is detected but no roster exists.
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 119:
+Input: “You have a shift tomorrow at 9 AM. Would you like to book transport?”
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 120:
+Input: “You have a shift tomorrow at 9 AM. Would you like to book transport?”
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 121:
+Input: “You have a shift tomorrow at 9 AM. Would you like to book transport?”
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 122:
+Input: Smart Suggestions
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 123:
+Input: Smart Suggestions
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 124:
+Input: Smart Suggestions
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 125:
+Input: Suggest default time/place based on previous behavior.
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 126:
+Input: Suggest default time/place based on previous behavior.
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 127:
+Input: Suggest default time/place based on previous behavior.
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 128:
+Input: Offer one-tap options: "Rebook last trip", "Same time as yesterday", "Cancel today’s ride"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 129:
+Input: Offer one-tap options: "Rebook last trip", "Same time as yesterday", "Cancel today’s ride"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 130:
+Input: Offer one-tap options: "Rebook last trip", "Same time as yesterday", "Cancel today’s ride"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 131:
+Input: Below are the examples of few more prompts and responses from an employee perspective
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 132:
+Input: Below are the examples of few more prompts and responses from an employee perspective
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 133:
+Input: Below are the examples of few more prompts and responses from an employee perspective
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 134:
+Input: Employee Transport Management System: Employee's Perspective
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 135:
+Input: Employee Transport Management System: Employee's Perspective
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 136:
+Input: Employee Transport Management System: Employee's Perspective
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 137:
+Input: I. Viewing My Schedule
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 138:
+Input: I. Viewing My Schedule
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 139:
+Input: I. Viewing My Schedule
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 140:
+Input: 1. View My Current/Upcoming Schedule
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 141:
+Input: 1. View My Current/Upcoming Schedule
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 142:
+Input: 1. View My Current/Upcoming Schedule
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 143:
+Input: Short Prompt: "My schedule."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 144:
+Input: Short Prompt: "My schedule."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 145:
+Input: Short Prompt: "My schedule."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 146:
+Input: Full Prompt: "Show me my transport schedule for today." or "What is my pickup time tomorrow, June 11th?"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 147:
+Input: Full Prompt: "Show me my transport schedule for today." or "What is my pickup time tomorrow, June 11th?"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 148:
+Input: Full Prompt: "Show me my transport schedule for today." or "What is my pickup time tomorrow, June 11th?"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 149:
+Input: System Response:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 150:
+Input: System Response:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 151:
+Input: System Response:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 152:
+Input: "Today's Pickup:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 153:
+Input: "Today's Pickup:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 154:
+Input: "Today's Pickup:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 155:
+Input: Time: 6:00 PM
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 156:
+Input: Time: 6:00 PM
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 157:
+Input: Time: 6:00 PM
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 158:
+Input: Cab: KA01AB1234 (Toyota Innova)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 159:
+Input: Cab: KA01AB1234 (Toyota Innova)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 160:
+Input: Cab: KA01AB1234 (Toyota Innova)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 161:
+Input: Driver: Ramesh (9876543210)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 162:
+Input: Driver: Ramesh (9876543210)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 163:
+Input: Driver: Ramesh (9876543210)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 164:
+Input: Current Status: En route, 15 minutes away."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 165:
+Input: Current Status: En route, 15 minutes away."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 166:
+Input: Current Status: En route, 15 minutes away."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 167:
+Input: "Tomorrow's Pickup (June 11th):
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 168:
+Input: "Tomorrow's Pickup (June 11th):
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 169:
+Input: "Tomorrow's Pickup (June 11th):
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 170:
+Input: Time: 8:30 AM
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 171:
+Input: Time: 8:30 AM
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 172:
+Input: Time: 8:30 AM
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 173:
+Input: Cab: KA05CD5678 (Maruti Ertiga)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 174:
+Input: Cab: KA05CD5678 (Maruti Ertiga)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 175:
+Input: Cab: KA05CD5678 (Maruti Ertiga)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 176:
+Input: Driver: Suresh (9988776655)"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 177:
+Input: Driver: Suresh (9988776655)"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 178:
+Input: Driver: Suresh (9988776655)"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 179:
+Input: "No transport scheduled for you today."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 180:
+Input: "No transport scheduled for you today."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 181:
+Input: "No transport scheduled for you today."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 182:
+Input: "Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday')."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 183:
+Input: "Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday')."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 184:
+Input: "Please specify the date for the schedule you'd like to view (e.g., 'My schedule for Friday')."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 185:
+Input: 2. View My Past Schedules
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 186:
+Input: 2. View My Past Schedules
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 187:
+Input: 2. View My Past Schedules
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 188:
+Input: Short Prompt: "My schedule last week."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 189:
+Input: Short Prompt: "My schedule last week."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 190:
+Input: Short Prompt: "My schedule last week."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 191:
+Input: Full Prompt: "Show me my transport schedule for last week, June 2nd to June 8th."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 192:
+Input: Full Prompt: "Show me my transport schedule for last week, June 2nd to June 8th."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 193:
+Input: Full Prompt: "Show me my transport schedule for last week, June 2nd to June 8th."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 194:
+Input: System Response:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 195:
+Input: System Response:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 196:
+Input: System Response:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 197:
+Input: "Your Schedules (June 2nd - June 8th):
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 198:
+Input: "Your Schedules (June 2nd - June 8th):
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 199:
+Input: "Your Schedules (June 2nd - June 8th):
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 200:
+Input: June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 201:
+Input: June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 202:
+Input: June 3rd (Mon): Pickup 9:00 AM (Cab: KA01AB1234), Drop 6:00 PM (Cab: KA01AB1234)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 203:
+Input: June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 204:
+Input: June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 205:
+Input: June 5th (Wed): Pickup 9:00 AM (Cab: KA05CD5678), Drop 6:00 PM (Cab: KA05CD5678)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 206:
+Input: ... (list continues for all scheduled days)"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 207:
+Input: ... (list continues for all scheduled days)"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 208:
+Input: ... (list continues for all scheduled days)"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 209:
+Input: "No transport schedule found for you during that period."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 210:
+Input: "No transport schedule found for you during that period."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 211:
+Input: "No transport schedule found for you during that period."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 212:
+Input: II. Requesting a Change
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 213:
+Input: II. Requesting a Change
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 214:
+Input: II. Requesting a Change
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 215:
+Input: 1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 216:
+Input: 1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 217:
+Input: 1. Requesting a Schedule Change (e.g., Early Departure, Late Arrival)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 218:
+Input: Short Prompt: "Change my drop-off time."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 219:
+Input: Short Prompt: "Change my drop-off time."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 220:
+Input: Short Prompt: "Change my drop-off time."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 221:
+Input: Full Prompt: "I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 222:
+Input: Full Prompt: "I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 223:
+Input: Full Prompt: "I need to leave early today. Can I change my drop-off to 4:00 PM instead of 6:00 PM?"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 224:
+Input: System Response:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 225:
+Input: System Response:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 226:
+Input: System Response:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 227:
+Input: "Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 228:
+Input: "Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 229:
+Input: "Request to change drop-off time to 4:00 PM submitted. We are checking cab availability. You will receive confirmation within 15 minutes."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 230:
+Input: "Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 231:
+Input: "Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 232:
+Input: "Your request for an early drop-off at 4:00 PM today has been approved. Your new cab is KA01EF9012, driver John. It will arrive at 3:55 PM."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 233:
+Input: "Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 234:
+Input: "Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 235:
+Input: "Unfortunately, we cannot accommodate a 4:00 PM drop-off today due to cab unavailability. Would you like to check for 4:30 PM or 5:00 PM?"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 236:
+Input: "Please specify the exact date and the new time you'd like to change to."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 237:
+Input: "Please specify the exact date and the new time you'd like to change to."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 238:
+Input: "Please specify the exact date and the new time you'd like to change to."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 239:
+Input: 2. Cancelling My Ride
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 240:
+Input: 2. Cancelling My Ride
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 241:
+Input: 2. Cancelling My Ride
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 242:
+Input: Short Prompt: "Cancel my ride."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 243:
+Input: Short Prompt: "Cancel my ride."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 244:
+Input: Short Prompt: "Cancel my ride."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 245:
+Input: Full Prompt: "Cancel my pickup for tomorrow, June 11th." or "Cancel my drop-off for today, June 10th."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 246:
+Input: Full Prompt: "Cancel my pickup for tomorrow, June 11th." or "Cancel my drop-off for today, June 10th."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 247:
+Input: Full Prompt: "Cancel my pickup for tomorrow, June 11th." or "Cancel my drop-off for today, June 10th."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 248:
+Input: System Response:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 249:
+Input: System Response:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 250:
+Input: System Response:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 251:
+Input: "Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 252:
+Input: "Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 253:
+Input: "Confirm cancellation of your pickup for tomorrow, June 11th? (Yes/No)"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 254:
+Input: Upon Yes: "Your pickup for tomorrow, June 11th, has been successfully cancelled."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 255:
+Input: Upon Yes: "Your pickup for tomorrow, June 11th, has been successfully cancelled."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 256:
+Input: Upon Yes: "Your pickup for tomorrow, June 11th, has been successfully cancelled."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 257:
+Input: "No active transport scheduled for you for the date specified."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 258:
+Input: "No active transport scheduled for you for the date specified."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 259:
+Input: "No active transport scheduled for you for the date specified."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 260:
+Input: III. Real-time Updates & Reminders
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 261:
+Input: III. Real-time Updates & Reminders
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 262:
+Input: III. Real-time Updates & Reminders
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 263:
+Input: 1. Cab is Approaching (System-Initiated Notification)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 264:
+Input: 1. Cab is Approaching (System-Initiated Notification)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 265:
+Input: 1. Cab is Approaching (System-Initiated Notification)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 266:
+Input: Short Notification: "Cab arriving soon!"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 267:
+Input: Short Notification: "Cab arriving soon!"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 268:
+Input: Short Notification: "Cab arriving soon!"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 269:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 270:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 271:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup is 5 minutes away. Please be ready at your pickup point."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 272:
+Input: Employee Action/Acknowledgement: (Click "OK" in app, or just be ready)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 273:
+Input: Employee Action/Acknowledgement: (Click "OK" in app, or just be ready)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 274:
+Input: Employee Action/Acknowledgement: (Click "OK" in app, or just be ready)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 275:
+Input: 2. Cab Has Arrived (System-Initiated Notification)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 276:
+Input: 2. Cab Has Arrived (System-Initiated Notification)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 277:
+Input: 2. Cab Has Arrived (System-Initiated Notification)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 278:
+Input: Short Notification: "Cab has arrived!"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 279:
+Input: Short Notification: "Cab has arrived!"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 280:
+Input: Short Notification: "Cab has arrived!"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 281:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 282:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 283:
+Input: Full Notification: "Your cab (KA01AB1234) for pickup has arrived at your location. Driver Ramesh is waiting. Please proceed to the pickup point."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 284:
+Input: Employee Action/Acknowledgement: (Proceed to cab, click "Acknowledged" in app)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 285:
+Input: Employee Action/Acknowledgement: (Proceed to cab, click "Acknowledged" in app)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 286:
+Input: Employee Action/Acknowledgement: (Proceed to cab, click "Acknowledged" in app)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 287:
+Input: 3. Cab Delay Notification (System-Initiated Notification)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 288:
+Input: 3. Cab Delay Notification (System-Initiated Notification)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 289:
+Input: 3. Cab Delay Notification (System-Initiated Notification)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 290:
+Input: Short Notification: "Cab delayed."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 291:
+Input: Short Notification: "Cab delayed."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 292:
+Input: Short Notification: "Cab delayed."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 293:
+Input: Full Notification: "Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 294:
+Input: Full Notification: "Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 295:
+Input: Full Notification: "Important: Your cab (KA01AB1234) for pickup at 6:00 PM is delayed by 15 minutes due to heavy traffic. New ETA: 6:15 PM. We apologize for the inconvenience."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 296:
+Input: Employee Action/Acknowledgement: (Click "OK", "View on Map", "Contact Support" if available)
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 297:
+Input: Employee Action/Acknowledgement: (Click "OK", "View on Map", "Contact Support" if available)
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 298:
+Input: Employee Action/Acknowledgement: (Click "OK", "View on Map", "Contact Support" if available)
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 299:
+Input: 4. Driver/Cab Details for My Current Ride
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 300:
+Input: 4. Driver/Cab Details for My Current Ride
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 301:
+Input: 4. Driver/Cab Details for My Current Ride
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 302:
+Input: Short Prompt: "Who's my driver?"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 303:
+Input: Short Prompt: "Who's my driver?"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 304:
+Input: Short Prompt: "Who's my driver?"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 305:
+Input: Full Prompt: "What are the details of my current cab and driver?"
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 306:
+Input: Full Prompt: "What are the details of my current cab and driver?"
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 307:
+Input: Full Prompt: "What are the details of my current cab and driver?"
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 308:
+Input: System Response:
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 309:
+Input: System Response:
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 310:
+Input: System Response:
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 311:
+Input: "Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 312:
+Input: "Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 313:
+Input: "Your current cab is KA01AB1234 (Toyota Innova). Driver's name is Ramesh, contact number: 9876543210."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 314:
+Input: "You currently don't have an active ride assignment."
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 315:
+Input: "You currently don't have an active ride assignment."
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 316:
+Input: "You currently don't have an active ride assignment."
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
+Pair 317:
+Input: This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.
+Output: ❓ "Can you please specify the date and time for your trip?"
+
+Pair 318:
+Input: This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.
+Output: 🔁 "Did you mean to book a ride? Please provide the date/time, like ‘Pickup at 7 AM tomorrow’."
+
+Pair 319:
+Input: This employee-centric view helps streamline their daily commute and keeps them informed about their transport arrangements.
+Output: ⚠️ "I'm not sure I understood. Do you want to book, cancel, or view your roster?"
+
